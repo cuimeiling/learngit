@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a branch is quick and simple.
 Git can add merge.
 lalalala llalala
+It's an beautiful day!
